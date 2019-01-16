@@ -1,0 +1,5 @@
+Pour faire pointer 42.fr sur IP donnee, il faut :
+Ouvrir le fichier etc/hosts,
+Puis ajouter le nom et l'addresse IP voulu comme ceci :
+
+46.19.122.85		42.fr		(on peut evntuellement ajouter un alias)

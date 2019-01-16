@@ -1,0 +1,3 @@
+Pour rendre ce changement permanent, il faut modifier:
+
+/etc/hostname

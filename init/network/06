@@ -1,0 +1,3 @@
+/etc/resolv.conf permet de connaitre l'addresse IP d'un serveur DNS.
+Il peut y avoir plusieurs serveurs DNS, il suffit d'en ajouter avec:
+nameserver X.X.X.X

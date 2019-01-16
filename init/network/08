@@ -1,0 +1,11 @@
+Le site Slash16.org est hébergé par Amazon.com
+Pour obtenir ce resultat, on fait :
+
+ping slash16.org
+
+Cela nous renvoi une addresse IP
+il suffit ensuite de lancer la commande:
+
+whois X.X.X.X
+
+et on obtient le nom de l'hebergeur.
